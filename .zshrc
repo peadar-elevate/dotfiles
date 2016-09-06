@@ -115,4 +115,3 @@ export PATH=$PATH:/Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbi
 export PATH=$PATH:$HOME/bin
 export EDITOR='vim'
 
-export CHANGELOG_GITHUB_TOKEN='d5e0a337c79ebc87112bcfd5aa295e985b6e5341'
